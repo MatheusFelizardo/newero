@@ -10,7 +10,6 @@ ___
 
 ![](page.gif)
 
-
 ## :information_source: Sobre
 
 Projeto criado para treinamento do uso de vídeos como background e também para prática de menu hamburger.
